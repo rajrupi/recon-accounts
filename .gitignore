@@ -1,0 +1,6 @@
+.env
+node_modules
+node_modules_*
+.DS_Store
+.prettierrc
+.eslintcache
